@@ -1,0 +1,2 @@
+# BadgerDAO Uninitialized WarRoomGatedProxy PoC
+Proof of concept for the uninitialized smart contract vulnerability in BaderDAO's [WarRoomGatedProxy 0x16EaA9f54ACD904cA22873DB2c1E39e76b128Be9](https://etherscan.io/address/0x16EaA9f54ACD904cA22873DB2c1E39e76b128Be9). You can find more details in the following [post]().
